@@ -296,13 +296,6 @@ void Phonebook::inorderTraversal(AVLNode *node, vector<AVLNode *> &nodes)
     }
 }
 
-vector<AVLNode *> Phonebook::getAllNodes(AVLNode *node)
-{
-    vector<AVLNode *> nodes;
-    inorderTraversal(node, nodes);
-    return nodes;
-}
-
 void Phonebook::addContact(const string &name, const string &phoneNumber, const string &email)
 {
     string formattedName = name.substr(0, 20); // Truncate name to 20 characters
@@ -414,15 +407,16 @@ string Phonebook::getPhoneNumberByName(const string &name) {
     return "";
 }
 
-string Phonebook::getNameByPhoneNumber(const string &phoneNumber) {
-    AVLNode *node = root;
-    while (node != nullptr) {
-        if (node->contact.phoneNumber == phoneNumber) {
+string Phonebook::getNameByPhoneNumber(const string &phoneNumber)
+{
+    vector<AVLNode *> nodes;
+    inorderTraversal(root, nodes);
+    
+    for (AVLNode *node : nodes)
+    {
+        if (node->contact.phoneNumber == phoneNumber)
+        {
             return node->contact.name;
-        } else if (phoneNumber < node->contact.phoneNumber) {
-            node = node->left;
-        } else {
-            node = node->right;
         }
     }
     return "";

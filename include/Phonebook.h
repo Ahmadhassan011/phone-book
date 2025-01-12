@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 #include <algorithm>
+#include <fstream>
 #include "Contact.h"
 #include "AVLNode.h"
 
@@ -12,9 +13,10 @@ using namespace std;
 
 class Phonebook
 {
-private:
+public:
     AVLNode *root;
 
+private:
     int getHeight(AVLNode *node);
     int getBalanceFactor(AVLNode *node);
     AVLNode *rotateLeft(AVLNode *node);
@@ -27,8 +29,6 @@ private:
     void displayInOrder(AVLNode *node);
     bool searchContactNode(AVLNode *node, const string &name);
     bool searchPhoneNumberNode(AVLNode *node, const string &phoneNumber);
-    void inorderTraversal(AVLNode *node, vector<AVLNode *> &nodes);
-    vector<AVLNode *> getAllNodes(AVLNode *node);
     void saveToCSV(AVLNode *node, ofstream &file);
     void loadFromCSV();
 
@@ -45,6 +45,7 @@ public:
     void loadContacts();
     string getPhoneNumberByName(const string &name);
     string getNameByPhoneNumber(const string &phoneNumber);
+    void inorderTraversal(AVLNode *node, vector<AVLNode *> &nodes);
 };
 
 #endif // PHONEBOOK_H
