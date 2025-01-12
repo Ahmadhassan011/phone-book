@@ -1,54 +1,50 @@
-1. Ahmad Ali,03011234567,ahmad.ali@example.com  
-2. Ali Khan,03021234567,ali.khan@example.com  
-3. Bilal Ahmed,03031234567,bilal.ahmed@example.com  
-4. Hamza Tariq,03041234567,hamza.tariq@example.com  
-5. Saad Malik,03051234567,saad.malik@example.com  
-6. Hassan Raza,03061234567,hassan.raza@example.com  
-7. Umar Farooq,03071234567,umar.farooq@example.com  
-8. Imran Shah,03081234567,imran.shah@example.com  
-9. Kamran Ali,03091234567,kamran.ali@example.com  
-10. Zain Ahmed,03101234567,zain.ahmed@example.com  
-11. Salman Akram,03111234567,salman.akram@example.com  
-12. Faizan Malik,03121234567,faizan.malik@example.com  
-13. Waleed Ahmed,03131234567,waleed.ahmed@example.com  
-14. Asad Khan,03141234567,asad.khan@example.com  
-15. Daniyal Riaz,03151234567,daniyal.riaz@example.com  
-16. Shahzad Ali,03161234567,shahzad.ali@example.com  
-17. Zeeshan Raza,03171234567,zeeshan.raza@example.com  
-18. Junaid Farooq,03181234567,junaid.farooq@example.com  
-19. Haris Ahmed,03191234567,haris.ahmed@example.com  
-20. Kashif Khan,03201234567,kashif.khan@example.com  
-21. Rehan Malik,03211234567,rehan.malik@example.com  
-22. Fahad Tariq,03221234567,fahad.tariq@example.com  
-23. Talha Riaz,03231234567,talha.riaz@example.com  
-24. Noman Shah,03241234567,noman.shah@example.com  
-25. Saif Ali,03251234567,saif.ali@example.com  
-26. Zohaib Ahmed,03261234567,zohaib.ahmed@example.com  
-27. Yasir Khan,03271234567,yasir.khan@example.com  
-28. Adeel Malik,03281234567,adeel.malik@example.com  
-29. Adnan Raza,03291234567,adnan.raza@example.com  
-30. Ehsan Farooq,03301234567,ehsan.farooq@example.com  
-31. Naveed Tariq,03311234567,naveed.tariq@example.com  
-32. Sameer Ahmed,03321234567,sameer.ahmed@example.com  
-33. Arslan Malik,03331234567,arslan.malik@example.com  
-34. Owais Shah,03341234567,owais.shah@example.com  
-35. Farhan Khan,03351234567,farhan.khan@example.com  
-36. Danish Ali,03361234567,danish.ali@example.com  
-37. Mustafa Ahmed,03371234567,mustafa.ahmed@example.com  
-38. Khalid Riaz,03381234567,khalid.riaz@example.com  
-39. Nabeel Khan,03391234567,nabeel.khan@example.com  
-40. Tayyab Malik,03401234567,tayyab.malik@example.com  
-41. Adil Farooq,03411234567,adil.farooq@example.com  
-42. Kashan Ahmed,03421234567,kashan.ahmed@example.com  
-43. Zubair Shah,03431234567,zubair.shah@example.com  
-44. Anas Raza,03441234567,anas.raza@example.com  
-45. Umar Malik,03451234567,umar.malik@example.com  
-46. Shayan Khan,03461234567,shayan.khan@example.com  
-47. Sarfaraz Ali,03471234567,sarfaraz.ali@example.com  
-48. Taimoor Ahmed,03481234567,taimoor.ahmed@example.com  
-49. Naeem Farooq,03491234567,naeem.farooq@example.com  
-<<<<<<< HEAD
-50. Rizwan Tariq,03501234567,rizwan.tariq@example.com  
-=======
-50. Rizwan Tariq,03501234567,rizwan.tariq@example.com
->>>>>>> b2ea12d9c443834e6378aadfd2ecd6e821f3fe68
+Ahmad Ali,03011234567,ahmad.ali@example.com  
+Ali Khan,03021234567,ali.khan@example.com  
+Bilal Ahmed,03031234567,bilal.ahmed@example.com  
+Hamza Tariq,03041234567,hamza.tariq@example.com  
+Saad Malik,03051234567,saad.malik@example.com  
+Hassan Raza,03061234567,hassan.raza@example.com  
+Umar Farooq,03071234567,umar.farooq@example.com  
+Imran Shah,03081234567,imran.shah@example.com  
+Kamran Ali,03091234567,kamran.ali@example.com  
+Zain Ahmed,03101234567,zain.ahmed@example.com  
+Salman Akram,03111234567,salman.akram@example.com  
+Faizan Malik,03121234567,faizan.malik@example.com  
+Waleed Ahmed,03131234567,waleed.ahmed@example.com  
+Asad Khan,03141234567,asad.khan@example.com  
+Daniyal Riaz,03151234567,daniyal.riaz@example.com  
+Shahzad Ali,03161234567,shahzad.ali@example.com  
+Zeeshan Raza,03171234567,zeeshan.raza@example.com  
+Junaid Farooq,03181234567,junaid.farooq@example.com  
+Haris Ahmed,03191234567,haris.ahmed@example.com  
+Kashif Khan,03201234567,kashif.khan@example.com  
+Rehan Malik,03211234567,rehan.malik@example.com  
+Fahad Tariq,03221234567,fahad.tariq@example.com  
+Talha Riaz,03231234567,talha.riaz@example.com  
+Noman Shah,03241234567,noman.shah@example.com  
+Saif Ali,03251234567,saif.ali@example.com  
+Zohaib Ahmed,03261234567,zohaib.ahmed@example.com  
+Yasir Khan,03271234567,yasir.khan@example.com  
+Adeel Malik,03281234567,adeel.malik@example.com  
+Adnan Raza,03291234567,adnan.raza@example.com  
+Ehsan Farooq,03301234567,ehsan.farooq@example.com  
+Naveed Tariq,03311234567,naveed.tariq@example.com  
+Sameer Ahmed,03321234567,sameer.ahmed@example.com  
+Arslan Malik,03331234567,arslan.malik@example.com  
+Owais Shah,03341234567,owais.shah@example.com  
+Farhan Khan,03351234567,farhan.khan@example.com  
+Danish Ali,03361234567,danish.ali@example.com  
+Mustafa Ahmed,03371234567,mustafa.ahmed@example.com  
+Khalid Riaz,03381234567,khalid.riaz@example.com  
+Nabeel Khan,03391234567,nabeel.khan@example.com  
+Tayyab Malik,03401234567,tayyab.malik@example.com  
+Adil Farooq,03411234567,adil.farooq@example.com  
+Kashan Ahmed,03421234567,kashan.ahmed@example.com  
+Zubair Shah,03431234567,zubair.shah@example.com  
+Anas Raza,03441234567,anas.raza@example.com  
+Umar Malik,03451234567,umar.malik@example.com  
+Shayan Khan,03461234567,shayan.khan@example.com  
+Sarfaraz Ali,03471234567,sarfaraz.ali@example.com  
+Taimoor Ahmed,03481234567,taimoor.ahmed@example.com  
+Naeem Farooq,03491234567,naeem.farooq@example.com  
+Rizwan Tariq,03501234567,rizwan.tariq@example.com  
