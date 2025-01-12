@@ -47,4 +47,8 @@
 47. Sarfaraz Ali,03471234567,sarfaraz.ali@example.com  
 48. Taimoor Ahmed,03481234567,taimoor.ahmed@example.com  
 49. Naeem Farooq,03491234567,naeem.farooq@example.com  
+<<<<<<< HEAD
 50. Rizwan Tariq,03501234567,rizwan.tariq@example.com  
+=======
+50. Rizwan Tariq,03501234567,rizwan.tariq@example.com
+>>>>>>> b2ea12d9c443834e6378aadfd2ecd6e821f3fe68

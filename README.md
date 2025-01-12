@@ -22,7 +22,7 @@ This project is a simple phone book application that allows users to store, sear
     ```
 3. Compile the project:
     ```sh
-    g++ -Iinclude -o phonebook src/*.cpp main.cpp
+    g++ -o phonebook.exe main.cpp src/*.cpp -I include -lgdi32 -mwindows -static-libgcc -static-libstdc++
     ```
 
 ## Usage
