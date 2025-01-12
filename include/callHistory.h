@@ -29,7 +29,7 @@ struct CallRecord
 
 class CallHistory
 {
-private:
+public:
     vector<CallRecord> callRecords;
 
 public:
